@@ -314,3 +314,14 @@ label {
 textarea {
     height: 150px;
 }
+
+.texto-destaque-2 {
+    margin-left: 10px;
+    text-align: center;
+}
+
+.texto-destaque-2 h3 {
+    font-size: 25px;
+    text-transform: uppercase;
+    color: #818181;
+}
