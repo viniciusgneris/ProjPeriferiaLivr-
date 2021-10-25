@@ -35,8 +35,7 @@ main, .content {
 .medias-sociais ul li {
     display: inline-block;
     list-style: none;
-    margin-top: -12px;
-    padding: 3px;
+    margin-top: -7px;
 }
 
 .medias-sociais {
