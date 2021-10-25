@@ -318,6 +318,7 @@ textarea {
 .texto-destaque-2 {
     margin-left: 10px;
     text-align: center;
+    height: 25px;
 }
 
 .texto-destaque-2 h3 {
